@@ -23,3 +23,10 @@
 	- downloads all videos from a playlist
     - search_download.py
 	- searches and downloads the video	
+
+- wiki
+    - wiki.py
+	- take the first paragraph from wikipedia page
+    - duckwiki.py
+	- uses duckduckgo.com to search the wikipedia page in case the first program doesnt match with the url
+
